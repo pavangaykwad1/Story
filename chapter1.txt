@@ -1,1 +1,1 @@
-this is my first git repository txt file. so i'm glad that i'm making it.
+this is my first git repository txt file. so i'm glad that i'm making it. and i just add another alien branch to my terminal.
